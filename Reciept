@@ -1,0 +1,13 @@
+console.log("=============================================");
+console.log("              McDONALD'S RECEIPT");
+console.log("---------------------------------------------");
+console.log("                Order details");
+console.log("---------------------------------------------");
+console.log("  Item              Quantity        Price");
+console.log("---------------------------------------------");
+console.log("  🍔 Burger             1             150");
+console.log("  🍟 Fries              1             150");
+console.log("  🥤 Cola               1              50");
+console.log("---------------------------------------------");
+console.log("  Total                               350");
+console.log("=============================================");
