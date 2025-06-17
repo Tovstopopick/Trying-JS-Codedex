@@ -1,0 +1,6 @@
+let companyName = "McDONALD'S";
+const foundingYear = 1940;
+let isActive = false;
+let fundingAmount;
+
+console.log (companyName, foundingYear, isActive, fundingAmount)
