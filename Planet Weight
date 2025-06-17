@@ -1,0 +1,6 @@
+const earthWeight = 60;
+
+let destinationWeight = earthWeight*60;
+
+console.log ("My weight on Earth is", earthWeight, "kilograms.");
+console.log ('My weight on Mars is', destinationWeight, 'kilograms.')
