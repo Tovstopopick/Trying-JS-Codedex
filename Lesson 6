@@ -1,0 +1,11 @@
+const userName = "Liza";
+const favouriteColor = "lilac";
+
+let location = "office";
+location = "Rigalto"
+let mood = "shitty because russia is a terrorist state"
+
+console.log (userName);
+console.log (mood);
+console.log (favouriteColor);
+console.log (location)
