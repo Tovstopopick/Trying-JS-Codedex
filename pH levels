@@ -1,0 +1,10 @@
+const pH = 7.1
+
+if (pH === 7) {
+  console.log('H2O');
+} else if (pH > 7) {
+  console.log('Basic');
+} else {
+  console.log('Acidic')
+}
+
